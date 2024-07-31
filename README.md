@@ -1,1 +1,1 @@
-Small website wwritten fo my practice using HTML, CSS and JavaScript
+Small website written fo my practice using HTML, CSS and JavaScript
